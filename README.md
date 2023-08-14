@@ -11,7 +11,7 @@
 ## Tecnologias aprendidas:
       - PostgresSQL(DBA)
       - Brmodelo(Modelagem de DBA)
-      - Javascript(Back)
+      - Javascript
       - Node.js
       - Python
 
